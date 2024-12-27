@@ -1,22 +1,24 @@
 ---
 title: Home
-description: what do you mean what is it, you're home
+description: what do you mean what is it? It's your home, your forever home.
 permalink: /
 ---
 
 # setLillie.net
 
-Ok. You're on setLillie.net, how did you get here?
-
-You don't know? That's intriguing.
+GOING SUPER SAIYAN
 
 <p align="center">
-	<img src="https://avatars.githubusercontent.com/u/38171335?s=48&v=4" alt="could not load image">
-</p>
+	<img src="https://github.com/FlameKat53/setlillie.net/blob/master/assets/supersaiyanfart.gif?raw=true" alt="sorry, I could not go Super Saiyan!">
 
 
 ### About
-Not much to say, this website isn't for anything yet!
+I'm looking for the dragon's balls. I mean... The Dragon Balls. 
 
 ### Contact
-My email is [evan.rodgers@setlillie.net](mailto:evan.rodgers@setlillie.net)
+E-mail: [evan.rodgers@setlillie.net](mailto:evan.rodgers@setlillie.net)
+
+</p>
+<p align="center">
+	<img src="https://avatars.githubusercontent.com/u/38171335?s=48&v=4" alt="could not load image">
+</p>
