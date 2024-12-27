@@ -10,7 +10,7 @@ GOING SUPER SAIYAN
 
 <p align="center">
 	<img src="https://github.com/FlameKat53/setlillie.net/blob/master/assets/supersaiyanfart.gif?raw=true" alt="sorry, I could not go Super Saiyan!">
-
+</p>
 
 ### About
 I'm looking for the dragon's balls. I mean... The Dragon Balls. 
