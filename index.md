@@ -6,9 +6,9 @@ permalink: /
 
 # setLillie.net
 
-Join my Discord server!
+# Join my Discord server!
 
-[https://discord.gg/meccdwGkdj](https://discord.gg/meccdwGkdj)
+### [https://discord.gg/meccdwGkdj](https://discord.gg/meccdwGkdj)
 
 ### About
 I'm trying to learn more about web design, maybe you could tell. 
