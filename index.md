@@ -6,18 +6,15 @@ permalink: /
 
 # setLillie.net
 
-GOING SUPER SAIYAN
+Join my Discord server!
 
-<p align="center">
-	<img src="https://github.com/FlameKat53/setlillie.net/blob/master/assets/supersaiyanfart.gif?raw=true" alt="sorry, I could not go Super Saiyan!">
-</p>
+https://discord.gg/meccdwGkdj
 
 ### About
-I'm looking for the dragon's balls. I mean... The Dragon Balls. 
+I'm trying to learn more about web design, maybe you could tell. 
 
 ### Contact
-E-mail: [evan.rodgers@setlillie.net](mailto:evan.rodgers@setlillie.net)
-
+E-mail: [lillie.rodgers@setlillie.net](mailto:lillie.rodgers@setlillie.net)
 
 <p align="center">
 	<img src="https://avatars.githubusercontent.com/u/38171335?s=48&v=4" alt="could not load image">
