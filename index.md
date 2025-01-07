@@ -4,8 +4,6 @@ description: what do you mean what is it? It's your home, your forever home.
 permalink: /
 ---
 
-# setLillie.net
-
 # Join my Discord server!
 
 ### [https://discord.gg/meccdwGkdj](https://discord.gg/meccdwGkdj)
