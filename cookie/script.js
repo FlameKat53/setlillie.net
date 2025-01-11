@@ -14,7 +14,7 @@ window.onload = async () => {
   
 	async function getRandomVideo(video_selection) {
 	  let videoData;
-	  video.preload = "auto"; // Preload the video
+	  // video.preload = "auto"; // Preload the video
   
 	  try {
 		if (video_selection === 0) {
