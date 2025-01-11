@@ -17,3 +17,5 @@ E-mail: [lillie.rodgers@setlillie.net](mailto:lillie.rodgers@setlillie.net)
 <p align="center">
 	<img src="https://avatars.githubusercontent.com/u/38171335?s=48&v=4" alt="could not load image">
 </p>
+
+### I stole a cookie, want a piece? [Click Here](https://setlillie.net/cookie)
