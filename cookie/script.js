@@ -121,8 +121,8 @@ window.onload = async () => {
 		video.style.display = "flex";
 		
 		// Cache the timing offsets for better performance
-		const timeOffset = video_selection === 0 ? 2.1 : 8.3;
-		const bpmOffset = video_selection === 0 ? 132 : 123;
+		//const timeOffset = video_selection === 0 ? 2.1 : 8.3;
+		//const bpmOffset = video_selection === 0 ? 132 : 123;
 		
 		video.play();
   
