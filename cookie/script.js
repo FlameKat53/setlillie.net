@@ -18,9 +18,9 @@ window.onload = async () => {
   
 	  try {
 		if (video_selection === 0) {
-		  videoData = await fetch("video.mp4"); // i am a registered ... 
+		  videoData = await fetch("video.mp4"); // amogus
 		} else if (video_selection === 1) {
-		  videoData = await fetch("video1.mp4"); // skibidi dob dob dob yes yes
+		  videoData = await fetch("video1.mp4"); // harold and george
 		}
 		const blob = await videoData.blob();
 		video.src = URL.createObjectURL(blob);
